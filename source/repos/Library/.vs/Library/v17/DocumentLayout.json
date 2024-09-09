@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44B432A6-B6F3-4D6B-8DE9-B4D13FD903FD}|Library\\Library.csproj|c:\\users\\user\\source\\repos\\library\\library\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B432A6-B6F3-4D6B-8DE9-B4D13FD903FD}|Library\\Library.csproj|solutionrelative:library\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B432A6-B6F3-4D6B-8DE9-B4D13FD903FD}|Library\\Library.csproj|c:\\users\\user\\source\\repos\\library\\library\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B432A6-B6F3-4D6B-8DE9-B4D13FD903FD}|Library\\Library.csproj|solutionrelative:library\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B432A6-B6F3-4D6B-8DE9-B4D13FD903FD}|Library\\Library.csproj|c:\\users\\user\\source\\repos\\library\\library\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B432A6-B6F3-4D6B-8DE9-B4D13FD903FD}|Library\\Library.csproj|solutionrelative:library\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B432A6-B6F3-4D6B-8DE9-B4D13FD903FD}|Library\\Library.csproj|c:\\users\\user\\source\\repos\\library\\library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B432A6-B6F3-4D6B-8DE9-B4D13FD903FD}|Library\\Library.csproj|solutionrelative:library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 220,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Library\\Library\\Data\\Database.cs",
+              "RelativeDocumentMoniker": "Library\\Data\\Database.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Library\\Library\\Data\\Database.cs",
+              "RelativeToolTip": "Library\\Data\\Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T20:39:37.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Library\\Library\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Library\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Library\\Library\\Models\\Student.cs",
+              "RelativeToolTip": "Library\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T20:25:14.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Library\\Library\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Library\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Library\\Library\\Models\\Book.cs",
+              "RelativeToolTip": "Library\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T20:23:14.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Library\\Library\\Program.cs",
+              "RelativeDocumentMoniker": "Library\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Library\\Library\\Program.cs",
+              "RelativeToolTip": "Library\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T19:57:15.959Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
